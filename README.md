@@ -12,5 +12,8 @@ echo "Hello World"
 
 :)
 
+# If you struggle with remembering git commands,
+'''https://education.github.com/git-cheat-sheet-education.pdf'''
+
 # Don't forget to make a .gitconfig
 
