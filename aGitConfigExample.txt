@@ -1,0 +1,23 @@
+[user]
+	name = Christopher_Madrid
+	email = chrismadrid173@gmail.com
+	github = cmadrid1
+[push]
+	default = current
+[alias]
+	last = log -1 HEAD
+	unstage = reset HEAD --
+	lol = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	commands = "!git config -l | grep alias | cut -c 7-"
+	st = status
+        stf = status -uno
+        com = commit -m
+	re = remote -v
+	br = branch -v
+	diff = diff --word-diff
+	dc = diff --cached
+        addm = add -u :/
+[core]
+	editor = emacs -nw
+[color]
+	ui = true

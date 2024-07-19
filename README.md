@@ -1,7 +1,7 @@
 # Github-Tutorial
 
 echo "Hello World"
-# Message here
+# Message here....change
 
 
 # If you have an SSH key setup
@@ -11,3 +11,5 @@ echo "Hello World"
 ```git clone https://github.com/TTUHEP/Github-Tutorial.git```
 
 # adding some line here
+# Don't forget to make a .gitconfig
+
