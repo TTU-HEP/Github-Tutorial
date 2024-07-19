@@ -10,5 +10,6 @@ echo "Hello World"
 # If you don't have an SSH key setup
 ```git clone https://github.com/TTUHEP/Github-Tutorial.git```
 
-#If you have issues remembering git commands,
-https://education.github.com/git-cheat-sheet-education.pdf
+
+# If you struggle with remembering git commands, #
+'''https://education.github.com/git-cheat-sheet-education.pdf'''
