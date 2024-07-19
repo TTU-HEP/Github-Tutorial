@@ -10,5 +10,7 @@ echo "Hello World"
 # If you don't have an SSH key setup
 ```git clone https://github.com/TTUHEP/Github-Tutorial.git```
 
+:)
+
 # Don't forget to make a .gitconfig
 
