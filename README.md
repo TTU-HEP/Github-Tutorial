@@ -19,3 +19,5 @@ echo "Hello World"
 
 # Don't forget to make a .gitconfig
 
+# simple message from michael:
+
